@@ -12,6 +12,12 @@ Widget for displaying an exception.
 This is a widget for the [kamille framework](https://github.com/lingtalfi/Kamille).
 
 
+Install
+===========
+using the [kamille installer tool](https://github.com/lingtalfi/kamille-installer-tool)
+```bash
+kamille winstall Exception
+```
 
 
 
